@@ -17,4 +17,7 @@ public class TicTacToeTest {
         game.switchCurrentPlayer();
         assertEquals('O', game.currentPlayer.getMarker());
     }
+    @Test
+    public void testStartGameAndMakeMove() {
+    }
 }
