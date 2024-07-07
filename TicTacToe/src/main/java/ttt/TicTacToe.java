@@ -4,7 +4,7 @@ public class TicTacToe {
 
     private Player player1;
     private Player player2;
-    private Player currentPlayer;
+    public Player currentPlayer;
     private Board board;
 
 
